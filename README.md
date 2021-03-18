@@ -11,9 +11,11 @@ cd ~/diretory/with/file
 # transform the script in a command
 . Script.sh
 ```
+The name of the command generated is **ent**.
+
 
 ## How to use
-This feature has 3 mandatory arguments. The first is the database you what to use. The second is what do you want to search on NCBI. And the third 
+This feature has 3 mandatory arguments. The first is the database you want to use. The second is what do you want to search on NCBI. And the third 
 is the name of the files which will go save the data (a xml file with the xml code of the search and a fasta file with the biological sequences). You
 do not need to say what is the extension of the files (this is done automatically).
 An example how to use:
